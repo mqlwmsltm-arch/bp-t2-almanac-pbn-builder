@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://almanac.pbn-builder.xyz/sitemap.xml
+Sitemap: https://almanac.pbn-builder.xyz/sitemap-pages.xml
