@@ -26,6 +26,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://almanac.pbn-builder.xyz/posts/field_note-003-1o836rs.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://almanac.pbn-builder.xyz/posts/field_note-003-6g9num.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -36,7 +41,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://almanac.pbn-builder.xyz/posts/guide-002-1kbirjy.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://almanac.pbn-builder.xyz/posts/major_compare-004-3cbn4e.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://almanac.pbn-builder.xyz/posts/major_compare-004-9932c8.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46,7 +61,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://almanac.pbn-builder.xyz/posts/myth-001-yitbky.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://almanac.pbn-builder.xyz/posts/qa-005-141xoo0.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://almanac.pbn-builder.xyz/posts/qa-005-1i82x8x.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
